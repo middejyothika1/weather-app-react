@@ -1,0 +1,16 @@
+
+.map-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .leaflet-map {
+    width: 100%;
+    max-width: 1200px; 
+    height: 500px; 
+    margin: 20px 0; 
+  }
+  
+  
